@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=P2 Old Footprint=HDR1X2H New Footprint=HDR1X2
-Change Component Designator: OldDesignator=I NewDesignator=R7
-Change Component Designator: OldDesignator=V NewDesignator=P1
-Added Member To Class: ClassName=Sheet.this Member=Component S1 SW-SPST
-Added Room: Name=Sheet.this
