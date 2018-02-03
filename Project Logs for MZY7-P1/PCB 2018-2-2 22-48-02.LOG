@@ -1,5 +1,0 @@
-Change Component Designator: OldDesignator=I NewDesignator=R7
-Change Component Designator: OldDesignator=V NewDesignator=P1
-Change Net Name : Old Net Name=GND New Net Name=NetC3_1
-Change Net Name : Old Net Name=NetC1_1 New Net Name=GND
-Added Room: Name=Sheet.this

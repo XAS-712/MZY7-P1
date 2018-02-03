@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=MSS22D18
-Change Component Designator: OldDesignator=GND NewDesignator=R8
-Change Component Designator: OldDesignator=I NewDesignator=R7
-Change Component Designator: OldDesignator=V NewDesignator=P1
-Added Room: Name=Sheet.this
