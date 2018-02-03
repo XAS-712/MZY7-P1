@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=GND Pin=Q1-6
+Change Component Footprint: Designator=R1 Old Footprint=0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R2 Old Footprint=0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R3 Old Footprint=0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R4 Old Footprint=0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R5 Old Footprint=0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R6 Old Footprint=0805 New Footprint=J1-0603
+Change Component Footprint: Designator=R7 Old Footprint=0805 New Footprint=J1-0603
+Change Component Footprint: Designator=D1 Old Footprint=0805D New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D2 Old Footprint=0805D New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D3 Old Footprint=0805D New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D4 Old Footprint=0805D New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=C1 Old Footprint=C1210 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C2 Old Footprint=C1210 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C3 Old Footprint=C1210 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C4 Old Footprint=C1210 New Footprint=RAD-0.3
+Change Component Footprint: Designator=L1 Old Footprint=L_7x7 New Footprint=AXIAL-0.9
+Change Component Footprint: Designator=S1 Old Footprint=MSS22D18 New Footprint=SPST-2
+Change Component Footprint: Designator=R8 Old Footprint=PFL1 New Footprint=J1-0603
+Change Component Comment : Designator=P1 Old Comment=5V New Comment=Header 2
+Change Component Comment : Designator=C3 Old Comment=1210 New Comment=Cap
+Change Component Comment : Designator=C4 Old Comment=1210 New Comment=Cap
+Change Component Comment : Designator=P2 Old Comment=BATInterface New Comment=Header 2H
+Change Component Comment : Designator=C1 Old Comment=C1210 New Comment=Cap
+Change Component Comment : Designator=C2 Old Comment=C1210 New Comment=Cap
+Change Component Comment : Designator=R8 Old Comment=FlyLine New Comment=Res3
+Change Component Comment : Designator=D1 Old Comment=LED1 New Comment=LED2
+Change Component Comment : Designator=D3 Old Comment=LED3 New Comment=LED2
+Change Component Comment : Designator=D4 Old Comment=LED4 New Comment=LED2
+Added Room: Name=Sheet.this

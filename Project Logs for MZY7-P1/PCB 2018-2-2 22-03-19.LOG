@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=C1210
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=C1210
+Added Room: Name=Sheet.this
