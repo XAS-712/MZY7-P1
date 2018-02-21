@@ -1,7 +1,7 @@
 # MZY7-P1
 #### Designed by XAS-712 with AD10
 
-![MZY7-P1的PCB正面](docs/img/MZY7-P1.top.png)
+![MZY7-P1的PCB正面](img/MZY7-P1.top.png)
 
 嗯，这是一块放在RPi0底部的电源板。
 
